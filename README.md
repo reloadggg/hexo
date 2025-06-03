@@ -31,6 +31,17 @@ npx hexo generate
 npx hexo server
 ```
 
+## 📖 详细操作文档
+
+查看 [BLOG_MANAGEMENT.md](./BLOG_MANAGEMENT.md) 获取完整的博客维护操作指南，包括：
+
+- 🖥️ 在新电脑上设置博客环境
+- ✍️ 创建新文章和设置分类标签
+- 🔄 更新和发布流程
+- 🛠️ 高级操作和自定义
+- 🚨 故障排除和备份策略
+- 📋 常用命令速查表
+
 ## 📦 部署到GitHub Pages
 
 1. Fork这个仓库
